@@ -1,0 +1,16 @@
+parallel_corpus_tuples:
+    -
+      - ./ref_corpus/wikicomp-2014_enja/wikicomp-2014_enja.xml_1-20000_en.txt
+      - ./ref_corpus/wikicomp-2014_enja/wikicomp-2014_enja.xml_1-20000_ja.txt
+    -
+      - ./ref_corpus/wikicomp-2014_enja/wikicomp-2014_enja.xml_20001-40000_en.txt
+      - ./ref_corpus/wikicomp-2014_enja/wikicomp-2014_enja.xml_20001-40000_ja.txt
+    -
+      - ./ref_corpus/wikicomp-2014_enja/wikicomp-2014_enja.xml_40001-60000_en.txt
+      - ./ref_corpus/wikicomp-2014_enja/wikicomp-2014_enja.xml_40001-60000_ja.txt
+    -
+      - ./ref_corpus/wikicomp-2014_enja/wikicomp-2014_enja.xml_60001-80000_en.txt
+      - ./ref_corpus/wikicomp-2014_enja/wikicomp-2014_enja.xml_60001-80000_ja.txt
+    -
+      - ./ref_corpus/wikicomp-2014_enja/wikicomp-2014_enja.xml_80001-100000_en.txt
+      - ./ref_corpus/wikicomp-2014_enja/wikicomp-2014_enja.xml_80001-100000_ja.txt
